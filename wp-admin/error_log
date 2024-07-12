@@ -1,0 +1,1 @@
+[02-Jul-2024 04:46:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/gunf8413/public_html/demo.gunabangsa.ac.id/wp-includes/class-wp-hook.php on line 324
